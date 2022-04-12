@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+.header a{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 600;
+    margin-right: 11px;
+}

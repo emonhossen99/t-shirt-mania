@@ -1,0 +1,10 @@
+.grandpa {
+    border: 1px solid salmon;
+    margin-top: 50px;
+}
+.grandpa div{
+    padding: 10px 8px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid salmon;
+}
